@@ -2,7 +2,7 @@
   "auto_update": true,
   "update_time": "08:00",
   "timezone": "Asia/Taipei",
-  "repo": "duang0615/tw-market-radar",
+  "repo": "roganjack13-wq/tw-market-radar",
 
   "_說明": {
     "auto_update": "自動更新總開關。改成 false 就停掉，排程還在但不會動作。手動跑不受影響。",

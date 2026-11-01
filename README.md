@@ -3,7 +3,7 @@
 > AI煉金術系列 · 堂 1「打造你的移動交易室」延伸作業
 > 星系投資 AI墨達人 × 麥可鄧 · 教方法，非投資建議
 
-**線上看成品 →** https://duang0615.github.io/tw-market-radar/
+**線上看成品 →** https://roganjack13-wq.github.io/tw-market-radar/
 
 找出過去 **72 小時**討論度快速上升的產業，把「事件 → 產業 → 台股公司」串成一張圖。
 
@@ -102,7 +102,7 @@ index.html + app.js   純前端讀 radar.json，搜尋／篩選都在瀏覽器�
 ## 4. 安裝與本機執行
 
 ```bash
-git clone https://github.com/duang0615/tw-market-radar.git
+git clone https://github.com/roganjack13-wq/tw-market-radar.git
 cd tw-market-radar
 
 python scripts/build_radar.py --dry-run     # 先只抓不寫檔，確認來源都通
@@ -132,7 +132,7 @@ python -m http.server 8000                  # 開網站
   "auto_update": true,
   "update_time": "08:00",
   "timezone": "Asia/Taipei",
-  "repo": "duang0615/tw-market-radar"
+  "repo": "roganjack13-wq/tw-market-radar"
 }
 ```
 
