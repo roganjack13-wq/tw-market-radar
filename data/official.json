@@ -20,34 +20,8 @@
     "title": "3489 長耀地產｜公告本公司名稱由「森寶開發股份有限公司」更名為 「長耀地產投資股份有限公司」，公告期間： 115年11月4日至116年2月3日",
     "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3489&t=mops",
     "source": "櫃買·重大訊息",
-    "published_at": "2026-11-14T07:00:03+08:00",
+    "published_at": "2026-11-15T07:00:04+08:00",
     "industries": []
-  },
-  {
-    "id": "832569f7987b2e40",
-    "title": "4174 浩鼎｜公告本公司與Novartis Pharma AG簽訂ADC平台技術合作暨授權 合約",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=4174&t=mops",
-    "source": "櫃買·重大訊息",
-    "published_at": "2026-11-14T09:37:29+08:00",
-    "industries": []
-  },
-  {
-    "id": "0b36692b1ca3372e",
-    "title": "2754 亞洲藏壽司｜更正公告本公司民國115年第3季合併財務報告經董事會 決議通過",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=2754&t=mops",
-    "source": "櫃買·重大訊息",
-    "published_at": "2026-11-14T19:36:23+08:00",
-    "industries": []
-  },
-  {
-    "id": "c4d6a88caabf4cfa",
-    "title": "3324 雙鴻｜公告本公司受邀參加 JP Morgan APAC Technology, Innovation and Growth Conference",
-    "url": "https://mopsov.twse.com.tw/mops/web/t05st01?co=3324&t=mops",
-    "source": "櫃買·重大訊息",
-    "published_at": "2026-11-14T21:31:26+08:00",
-    "industries": [
-      "cooling"
-    ]
   },
   {
     "id": "7c8ce21035d84037",
@@ -1154,35 +1128,19 @@
     "industries": []
   },
   {
-    "id": "db431d6f3b4ba1d6",
-    "title": "公告修正本公司「股票期貨契約」及「股票選擇權契約」規格及交易規則，以及「動態價格穩定措施作業辦法」、「法人機構申請放寬部位限制作業要點」與「結算保證金收取方式及標準」等條文，並自即日起實施，請查照。",
-    "url": "https://www.taifex.com.tw/file/taifex/CHINESE/11/attach/官網附件.pdf",
+    "id": "74377228f320912f",
+    "title": "公告本公司美元兌人民幣期貨(RHF)及小型美元兌人民幣期貨(RTF)2026年11月契約最後結算價",
+    "url": "https://www.taifex.com.tw/cht/5/fXFSP?commodityIds=19&commodityIds=20&commodityIds=22&commodityIds=23&start_year=2025&start_month=11&end_year=2026&end_month=11",
     "source": "期交所·公告",
-    "published_at": "2026-11-13T18:12:40+08:00",
+    "published_at": "2026-11-16T13:01:26+08:00",
     "industries": []
   },
   {
-    "id": "5ef3cb9777ed1cec",
-    "title": "公告本公司東證期貨2026年11月契約最後結算價",
-    "url": "https://www.taifex.com.tw/cht/5/futIndxFSP?commodityIds=21&start_year=2025&start_month=11&end_year=2026&end_month=11",
+    "id": "509a94a5fef6711b",
+    "title": "公告修訂本公司「選擇權契約保證金計收方式」，並自即日起實施，請查照。",
+    "url": "https://www.taifex.com.tw/file/taifex/CHINESE/11/attach/台期結字第1150302455號函.pdf",
     "source": "期交所·公告",
-    "published_at": "2026-11-13T15:16:16+08:00",
-    "industries": []
-  },
-  {
-    "id": "03ad2419f000c438",
-    "title": "公告本公司臺指選擇權週五到期契約(契約代號:202611F2)最後結算價",
-    "url": "https://www.taifex.com.tw/cht/5/optIndxFSP?commodityIds=2&start_year=2025&start_month=11&end_year=2026&end_month=11",
-    "source": "期交所·公告",
-    "published_at": "2026-11-13T13:44:48+08:00",
-    "industries": []
-  },
-  {
-    "id": "c8f808d03345ade2",
-    "title": "市場波動加劇 主動式ETF期貨提供新選擇",
-    "url": "https://www.taifex.com.tw/file/taifex/CHINESE/11/attach/主動式ETF期貨新聞稿.pdf",
-    "source": "期交所·新聞稿",
-    "published_at": "2026-11-13T17:39:03+08:00",
+    "published_at": "2026-11-16T10:13:55+08:00",
     "industries": []
   }
 ]
